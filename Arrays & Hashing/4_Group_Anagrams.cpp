@@ -6,7 +6,9 @@ using namespace std;
 
 class Solution {
 public:
-  vector<vector<string>> groupAnagrams(vector<string> &strs) {}
+  vector<vector<string>> groupAnagrams(vector<string> &strs) {
+    vector<vector<int>> Anagrams;
+  }
 };
 
 int main() {
